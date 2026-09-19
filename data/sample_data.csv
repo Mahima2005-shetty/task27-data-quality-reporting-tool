@@ -1,0 +1,16 @@
+id,name,age,email,salary,department
+1,Aarav,25,aarav@gmail.com,45000,IT
+2,Diya,28,diya@gmail.com,52000,HR
+3,Rohan,30,rohan@gmail.com,60000,Finance
+4,Ananya,,ananya@gmail.com,48000,IT
+5,Vikram,35,,70000,Finance
+6,Meera,29,meera@gmail.com,55000,HR
+7,Arjun,abc,arjun@gmail.com,50000,IT
+8,Priya,27,priya@gmail.com,not_available,HR
+9,Kiran,31,kiran@gmail.com,62000,Finance
+10,Neha,26,neha@gmail.com,47000,IT
+11,Rahul,24,rahul@gmail.com,43000,IT
+12,Sneha,32,sneha@gmail.com,58000,HR
+13,Kiran,31,kiran@gmail.com,62000,Finance
+14,Manoj,-5,manoj@gmail.com,51000,IT
+15,Pooja,29,pooja@gmail,54000,HR

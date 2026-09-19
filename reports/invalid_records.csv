@@ -1,0 +1,9 @@
+id,name,age,email,salary,department,quality_issues
+4,Ananya,,ananya@gmail.com,48000,IT,Missing Values
+5,Vikram,35,,70000,Finance,Missing Values
+7,Arjun,abc,arjun@gmail.com,50000,IT,Invalid Age
+8,Priya,27,priya@gmail.com,not_available,HR,Invalid Salary
+9,Kiran,31,kiran@gmail.com,62000,Finance,Duplicate Record
+13,Kiran,31,kiran@gmail.com,62000,Finance,Duplicate Record
+14,Manoj,-5,manoj@gmail.com,51000,IT,Invalid Age
+15,Pooja,29,pooja@gmail,54000,HR,Invalid Email

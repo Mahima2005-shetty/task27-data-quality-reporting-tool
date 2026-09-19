@@ -1,0 +1,7 @@
+column,data_type,missing_count,missing_percentage,unique_count,uniqueness_percentage,duplicate_values,completeness_percentage
+id,int64,0,0.00%,15,100.00%,0,100.00%
+name,str,0,0.00%,14,93.33%,1,100.00%
+age,str,1,6.67%,12,80.00%,2,93.33%
+email,str,1,6.67%,13,86.67%,1,93.33%
+salary,str,0,0.00%,14,93.33%,1,100.00%
+department,str,0,0.00%,3,20.00%,12,100.00%
