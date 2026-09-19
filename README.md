@@ -1,4 +1,4 @@
-\# Data Quality Reporting Tool
+# Data Quality Reporting Tool
 
 
 
@@ -80,3 +80,7 @@ task27-data-quality-reporting-tool/
 
 └── README.md
 
+=======
+# task27-data-quality-reporting-tool
+Python-based data quality profiling tool that detects missing values, duplicates, invalid data, and suspicious records while generating automated quality reports.
+>>>>>>> 01beb3dfbb6cc677429b452d4e2c24a1ae74ca33
